@@ -1,0 +1,9 @@
+{
+  "name": "m1",
+  "version": "1.0.0",
+  "description": "Primeiro projeto 2022 Nodejs",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Milton Lima",
+  "license": "MIT"
+}
