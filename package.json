@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "Primeiro projeto 2022 Nodejs",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
   "author": "Milton Lima",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
   }
 }
